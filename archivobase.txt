@@ -1,1 +1,7 @@
 Archivo para el repositorio de github
+
+<<<<<<< HEAD
+c) cambios realizados para la rama principal
+=======
+F) cambios realizados para la rama principal
+>>>>>>> main
