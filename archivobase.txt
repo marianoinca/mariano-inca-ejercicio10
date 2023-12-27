@@ -1,3 +1,7 @@
 Archivo para el repositorio de github
 
-c) ambios para el punto c.
+<<<<<<< HEAD
+c) cambios realizados para la rama principal
+=======
+F) cambios realizados para la rama principal
+>>>>>>> main
